@@ -9,7 +9,6 @@ class CompanyResource < Avo::BaseResource
   # Fields generated from the model
   field :name, as: :text
   field :email, as: :text
-  field :logo, as: :text
   field :website, as: :text
   field :employees_count, as: :text do |model| 
     model.employees.count

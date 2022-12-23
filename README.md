@@ -5,20 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Bundle install
 
-* System dependencies
+* rails db:migrate
 
-* Configuration
+* rails db:seed
 
-* Database creation
+* rails s
 
-* Database initialization
+* email: admin@admin.com    
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* password: password
