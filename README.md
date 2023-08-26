@@ -1,4 +1,4 @@
-## About Installation Avo-blog (Open Source Rails Admin Panel)
+## About Installation Avo panel (Open Source Rails Admin Panel)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
